@@ -72,6 +72,7 @@ if __name__ == "__main__":
         r"D:\code\docu\bi-core\sh\sbin\etl\full",
         r"D:\code\docu\bi-core\sh\sbin\etl\part",
         r"D:\code\docu\bi-core\sh\sbin\compute_stats\databases_file",
+        r"D:\code\docu\bi-core\sh\sbin\etl\currency",
         r"D:\code\docu\bi-core\sh\sbin\other_use\5bi.txt"  # 排除 5bi.txt 文件
     ]
     file_to_check = r"D:\code\docu\bi-core\sh\sbin\other_use\6bi.txt"
